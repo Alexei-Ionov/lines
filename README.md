@@ -43,7 +43,7 @@ Save and close the file, then apply the changes by sourcing the configuration:
 source ~/.zshrc
 ```
 
-###Usage 
+### Usage 
 To use the program, simply type the alias in the desired directory 
 ```bash
 lines
