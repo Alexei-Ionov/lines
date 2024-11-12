@@ -35,7 +35,7 @@ nano ~/.zshrc
 Then add the following line to create an alias:
 
 ```bash
-alias countlines="/usr/local/bin/count_lines"
+alias lines="/usr/local/bin/lines"
 ```
 Save and close the file, then apply the changes by sourcing the configuration:
 
